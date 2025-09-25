@@ -158,7 +158,8 @@ Interactive math practice site for students with gamification and scoring.
   <a href="mailto:developerarunwork@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/arun-kumar-a3b047353/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40"/></a>
   <a href="https://github.com/abx15"><img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="40"/></a>
-  <a href="https://taupe-fox-7af636.netlify.app/"><img src="https://img.icons8.com/color/96/000000/portfolio.png" width="40"/></a>
+  <a href="https://arun15dev.netlify.app"><img src="https://img.icons8.com/color/96/000000/portfolio.png" width="40"/></a>
+  <a href="https://arun-s-devspace-3d.netlify.app"><img src="https://img.icons8.com/color/96/000000/portfolio.png" width="40"/></a>
 </p>
 
 ---
