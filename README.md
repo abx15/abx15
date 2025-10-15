@@ -71,6 +71,10 @@ Currently exploring AI and Machine Learning to create intelligent web solutions.
 - **LinkedIn:** [linkedin.com/in/arun-kumar-a3b047353](https://www.linkedin.com/in/arun-kumar-a3b047353/)  
 - **GitHub:** [github.com/abx15](https://github.com/abx15)
 
+[LinkedIn](https://www.linkedin.com/in/arun-kumar-a3b047353) | [Instagram](https://www.instagram.com/____abx15) | [Portfolio](https://arun15dev.netlify.app)
+
+
 ---
+
 
 ⭐ *“Code. Create. Innovate.”*
