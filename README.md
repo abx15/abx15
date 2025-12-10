@@ -55,14 +55,17 @@ Currently exploring AI and Machine Learning to create intelligent web solutions.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| **BloodLink** | A blood donation & request platform with AI chatbot and dark mode. | React, Node, MongoDB, Gemini API |
-| **SmilePoint** | AI-powered smile detection & selfie enhancement web app. | PHP, Tailwind, JS, AI API |
-| **Digital Health Records** | Hackathon project for managing patient health data. | HTML, CSS, PHP, MySQL |
-| **Portfolio Website** | Personal interactive portfolio with animations. | React, Tailwind CSS |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **BloodLink** | A full-stack blood donation and request platform featuring AI health chatbot (Gemini API), donor search, secure authentication, dark mode UI, and GSAP-based animations. | React, Node.js, Express, MongoDB, Gemini API, GSAP |
+| **SmilePoint** | AI-powered smile detection and selfie enhancement app with real-time feedback, QR code generation, and high-quality image enhancement. | PHP, Tailwind CSS, JavaScript, AI Vision APIs, TensorFlow.js |
+| **Digital Health Records** | Hackathon project for secure storage and management of patient health data including reports and doctor–patient workflows. | HTML, CSS, PHP, MySQL |
+| **ZestEats (In Development)** | A full MERN-based food delivery platform featuring JWT authentication, role-based dashboards, live map tracking (Google Maps API), Razorpay payment integration, restaurant & delivery partner modules. | MongoDB, Express.js, React.js, Node.js, JWT, Razorpay, Maps API |
+| **NovaNext UI** | A modern UI experience built with Next.js focusing on component reusability, performance, and smooth UI animations. | Next.js, Tailwind CSS |
+| **NeuroChat** | An AI chat interface built with Next.js + Tailwind for intelligent, responsive conversation workflows. | Next.js, Tailwind CSS, AI APIs |
+| **ZenTask** | A clean, fast task manager built using React with LocalStorage persistence, category-based organization, and a modern UI. | React.js, LocalStorage, Tailwind CSS |
 
 ---
 
