@@ -273,6 +273,7 @@ I am a **Full Stack Developer** experienced in building scalable, secure and hig
 - ✅ Deployed applications on multiple platforms
 - ✅ Designed and optimized database schemas
 - ✅ Developed RESTful APIs with proper documentation
+- 
 
 ---
 
