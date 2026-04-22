@@ -1,172 +1,20 @@
 # 👋 Hi, I'm Arun Kumar Bind
 
-## 🚀 Full Stack Developer (MERN + PHP/Laravel)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abx15&style=for-the-badge&color=blueviolet)](https://github.com/abx15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://arun15dev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerarunwork@gmail.com)
 
----
+Full Stack Developer & Generative AI Engineer — Delhi, India.
 
-### 🎯 Professional Summary
+I turn ideas into real products. Whether it's a SaaS platform, an AI-powered tool, or something built for farmers in rural India — I care about writing clean code that actually ships and solves problems.
 
-I am a **Full Stack Developer** experienced in building scalable, secure and high-performance web applications using MERN stack, PHP, Laravel, SQL databases, modern UI frameworks, animations, and AI-powered features.
+Over the last year I've shipped 60+ projects across full stack web, generative AI, and product engineering. Right now I'm building **AutoFlow AI** — a multi-tenant business automation SaaS with a Stripe-like developer API — and **AgroBrain AI**, a national-scale smart farming platform for Indian farmers.
 
-- 🎓 **B.Sc. Mathematics** (2025)
-- 🌍 **Location**: India
-- 💼 **Focus**: MERN Stack | PHP/Laravel | Modern UI/UX | AI Integration
-- 📧 **Contact**: developerarunwork@gmail.com
+I work with **Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Redis** and the **Claude / OpenAI APIs**. I'm comfortable across the entire stack — from database schema to polished UI.
 
 ---
 
-## 🛠️ Complete Skill Set
+Currently open to **Full Stack** or **Generative AI** roles in India (remote / hybrid welcome).
 
-### 🔹 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🔹 Frontend Development
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Swiper.js](https://img.shields.io/badge/Swiper.js-6333F1?style=flat&logo=swiper&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat&logo=javascript&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-FF6B6B?style=flat&logo=lottie&logoColor=white)
-
-**Frontend Expertise**:
-- 📱 Responsive & Mobile-First UI Design
-- 🌙 Dark Mode UI Systems
-- ⚡ Performance Optimization
-- 🎭 Advanced Animations & Transitions
-
-### 🔹 Backend Development (MERN + PHP Frameworks)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF5722?style=flat&logo=rest&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Architecture-000000?style=flat&logo=dotnet&logoColor=white)
-
-**Backend Expertise**:
-- 🔐 Authentication & Authorization
-- 👥 Role-Based Access Control
-- 🛡️ Security Best Practices
-- 📊 API Design & Documentation
-- 🏗️ MVC Architecture Implementation
-- 📋 RESTful API Development in Laravel
-
-### 🔹 Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Database Expertise**:
-- 🗄️ Database Design & Normalization
-- 📊 Query Optimization
-- 🔄 Data Migration
-- 🔗 Relationship Management
-
-### 🔹 APIs & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-1C1C1C?style=flat&logo=razorpay&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-FFFFFF?style=flat&logo=clerk&logoColor=black)
-![QR Code](https://img.shields.io/badge/QR_Code-000000?style=flat&logo=qr&logoColor=white)
-
-### 🔹 AI & Advanced Features
-- 🤖 **AI Chatbots** - Intelligent conversational interfaces
-- 🖼️ **Image Enhancement** - AI-powered image processing
-- 😊 **Smile Detection** - Computer vision applications
-- ⚡ **Real-time Feedback Systems** - Live data processing
-
-### 🔹 Tools, DevOps & Hosting
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-20232A?style=flat&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-
-**DevOps Expertise**:
-- 🔧 Environment Variables (.env)
-- 🚀 Deployment & CI basics
-- 📦 Package Management
-- 🔄 Version Control
-- 🌐 Server Configuration
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abx15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&custom_title=Arun's+GitHub+Stats" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abx15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abx15&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abx15&theme=radical&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 Experience & Achievements
-
-### 🎯 Professional Experience
-- 🏆 **Hackathon Participant** - United University
-- 🚀 **Multiple Real-world Full Stack Applications** - Production-ready systems
-- 🗄️ **Strong Backend & Database Knowledge** - Advanced SQL and NoSQL expertise
-- 🏗️ **Experience in Scalable System Design** - Enterprise-level architecture
-
-### 🌟 Key Achievements
-- ✅ Built 15+ full-stack applications (MERN + PHP/Laravel)
-- ✅ Integrated AI in multiple projects
-- ✅ Implemented complex authentication and authorization systems
-- ✅ Created responsive, high-performance UI/UX
-- ✅ Deployed applications on multiple platforms
-- ✅ Designed and optimized database schemas
-- ✅ Developed RESTful APIs with proper documentation
-- 
-
----
-
-## � Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abx15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-a3b047353/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arun15dev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerarunwork@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Let's Collaborate!
-
-**developerarunwork@gmail.com**
-
-*Always open to exciting opportunities and challenging full-stack projects!*
-
-🚀 *Let's build something amazing together with MERN, PHP, or Laravel!*
-
-</div>
+- 🌐 Portfolio — [arun15dev.netlify.app](https://arun15dev.netlify.app)
+- 💌 Email — [developerarunwork@gmail.com](mailto:developerarunwork@gmail.com) · [arun.builds.tech@gmail.com](mailto:arun.builds.tech@gmail.com)
+- 🔗 LinkedIn — [linkedin.com/in/arun-kumar-a3b047353](https://linkedin.com/in/arun-kumar-a3b047353)
+- 📍 Delhi / Noida, India
