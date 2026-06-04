@@ -2,6 +2,7 @@
 
 
 
+
 Full Stack Developer & Generative AI Engineer — Delhi, India.
 
 I turn ideas into real products. Whether it's a SaaS platform, an AI-powered tool, or something built for farmers in rural India — I care about writing clean code that actually ships and solves problems.
